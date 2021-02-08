@@ -7,6 +7,8 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 - My personal website <a href="https://sites.google.com/ualberta.ca/okanbulut/">www.okanbulut.com</a> 
 - My articles on <a href="https://drokanbulut.medium.com/">Medium</a> 
 
+<br>
+<br>
 <p align="center">
 	<a href="https://github.com/okanbulut"><img src="https://img.shields.io/github/followers/okanbulut.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/drokanbulut"><img src="https://img.shields.io/twitter/follow/drokanbulut?label=Twitter&style=social" alt="Twitter"></a>
