@@ -10,7 +10,6 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 <br>
 <br>
 <p align="center">
-	<a href="https://github.com/okanbulut"><img src="https://img.shields.io/github/followers/okanbulut.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/drokanbulut"><img src="https://img.shields.io/twitter/follow/drokanbulut?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/drokanbulut"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://scholar.google.com/citations?user=tKXcMK8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-1.4k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
