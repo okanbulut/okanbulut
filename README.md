@@ -13,5 +13,6 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 	<a href="https://twitter.com/drokanbulut"><img src="https://img.shields.io/twitter/follow/drokanbulut?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/drokanbulut"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://scholar.google.com/citations?user=tKXcMK8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-1.4k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
-	 <a href="https://drokanbulut.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="vidyabhandary" /></a>
+	<a href="https://www.linkedin.com/in/drokanbulut" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drokanbulut"/></a> 
+	 <a href="https://drokanbulut.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="drokanbulut" /></a>
 </p>
