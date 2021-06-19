@@ -13,13 +13,13 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 - My personal website <a href="https://sites.google.com/ualberta.ca/okanbulut/">www.okanbulut.com</a> :computer:
 - My articles on <a href="https://drokanbulut.medium.com/">Medium</a> :pencil:
 
-<br>
-<br>
-<p align="center">
-	<a href="https://twitter.com/drokanbulut"><img src="https://img.shields.io/twitter/follow/drokanbulut?label=Twitter&style=social" alt="Twitter"></a>
-	<a href=""><img src="" alt="Scholars"></a>
-	<a href="https://www.linkedin.com/in/drokanbulut" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drokanbulut"/></a> 
-	 <a href="https://drokanbulut.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="drokanbulut" /></a>
-</p>
+## My R Packages
 
+- [**eirm**](https://github.com/okanbulut/eirm): Explanatory item response modeling
+- [**hemp**](https://github.com/cddesja/hemp): [Handbook of Educational Measurement and Psychometrics Using R](https://www.routledge.com/Handbook-of-Educational-Measurement-and-Psychometrics-Using-R/Desjardins-Bulut/p/book/9780367734671) companion package
 
+<br>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=okanbulut&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/okanbulut?template=classic&config.timezone=Europe%2FBerlin)
