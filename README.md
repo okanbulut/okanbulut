@@ -1,7 +1,8 @@
 # Hi, I'm Okan Bulut 👋
 
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Okan-Bulut-2)
-[![Twitter Follow](https://img.shields.io/twitter/follow/drokanbulut?label=%20%40drokanbulut&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/drokanbulut)
+[![Twitter](https://img.shields.io/twitter/follow/drokanbulut?label=%20%40drokanbulut&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/drokanbulut)
+[![Google Scholar](https://img.shields.io/badge/Citations-1.4k-_.svg?style=social&logo=google-scholar)](https://scholar.google.com/citations?user=tKXcMK8AAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drokanbulut)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://drokanbulut.medium.com/)
 
@@ -16,7 +17,7 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 <br>
 <p align="center">
 	<a href="https://twitter.com/drokanbulut"><img src="https://img.shields.io/twitter/follow/drokanbulut?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://scholar.google.com/citations?user=tKXcMK8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-1.4k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
+	<a href=""><img src="" alt="Scholars"></a>
 	<a href="https://www.linkedin.com/in/drokanbulut" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="drokanbulut"/></a> 
 	 <a href="https://drokanbulut.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="drokanbulut" /></a>
 </p>
