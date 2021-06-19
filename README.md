@@ -1,4 +1,7 @@
-### Hi, I'm Okan Bulut 👋
+# Hi, I'm Okan Bulut 👋
+
+[![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Okan-Bulut-2)
+[![Twitter Follow](https://img.shields.io/twitter/follow/patilindrajeets?label=%20%40IndrajeetPatil&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/drokanbulut)
 
 I'm an Associate Professor of psychometrics and data science at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a>. I am passionate about creating open-source materials on psychometrics and data science methods using the R programming language. 
 
@@ -16,4 +19,4 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 	 <a href="https://drokanbulut.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="drokanbulut" /></a>
 </p>
 
-[![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Okan-Bulut-2)
+
