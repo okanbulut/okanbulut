@@ -13,8 +13,8 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 - My personal website <a href="https://sites.google.com/ualberta.ca/okanbulut/">www.okanbulut.com</a> :computer:
 - My articles on <a href="https://drokanbulut.medium.com/">Medium</a> :pencil:
 
-## My R Packages
 
+## My R Packages
 - [**eirm**](https://github.com/okanbulut/eirm): Explanatory item response modeling
 - [**hemp**](https://github.com/cddesja/hemp): [Handbook of Educational Measurement and Psychometrics Using R](https://www.routledge.com/Handbook-of-Educational-Measurement-and-Psychometrics-Using-R/Desjardins-Bulut/p/book/9780367734671) companion package
 
