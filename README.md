@@ -17,6 +17,7 @@ I'm an Associate Professor of psychometrics and data science at the <a href="htt
 
 ## My R Packages
 - [**eirm**](https://github.com/okanbulut/eirm): Explanatory item response modeling
+- [**profileR**](https://github.com/cddesja/profileR/): Profile Analysis of Multivariate Data in R
 - [**hemp**](https://github.com/cddesja/hemp): [Handbook of Educational Measurement and Psychometrics Using R](https://www.routledge.com/Handbook-of-Educational-Measurement-and-Psychometrics-Using-R/Desjardins-Bulut/p/book/9780367734671) companion package
 
 <br>
