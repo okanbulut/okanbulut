@@ -22,6 +22,6 @@ I'm a Professor of Measurement, Evaluation, and Data Science at the <a href="htt
 
 <br>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=okanbulut&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+## My GitHub Stats
 
 ![Metrics](https://metrics.lecoq.io/okanbulut?template=classic&config.timezone=Europe%2FBerlin)
