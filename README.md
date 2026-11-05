@@ -16,7 +16,7 @@ I'm a Professor of Measurement, Evaluation, and Data Science at the <a href="htt
 <br>
 
 ## My R Packages
-- [**mirtverse**](https://github.com/okanbulutmirtverse): A friendly workflow and reporting layer for mirt
+- [**mirtverse**](https://github.com/okanbulut/mirtverse): A friendly workflow and reporting layer for mirt
 - [**eirm**](https://github.com/okanbulut/eirm): Explanatory item response modeling
 - [**profileR**](https://github.com/cddesja/profileR/): Profile Analysis of Multivariate Data in R
 - [**hemp**](https://github.com/cddesja/hemp): [Handbook of Educational Measurement and Psychometrics Using R](https://www.routledge.com/Handbook-of-Educational-Measurement-and-Psychometrics-Using-R/Desjardins-Bulut/p/book/9780367734671) companion package
