@@ -21,7 +21,3 @@ I'm a Professor of Measurement, Evaluation, and Data Science at the <a href="htt
 - [**hemp**](https://github.com/cddesja/hemp): [Handbook of Educational Measurement and Psychometrics Using R](https://www.routledge.com/Handbook-of-Educational-Measurement-and-Psychometrics-Using-R/Desjardins-Bulut/p/book/9780367734671) companion package
 
 <br>
-
-## My GitHub Stats
-
-![Metrics](https://metrics.lecoq.io/okanbulut?template=classic&config.timezone=Europe%2FBerlin)
